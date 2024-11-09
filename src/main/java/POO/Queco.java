@@ -5,7 +5,7 @@
 package POO;
 
 /**
- *
+ 
  * @author allan
  */
 public class Queco extends Animal {
